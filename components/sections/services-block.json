@@ -1,0 +1,1 @@
+{"collectionName":"components_sections_services-block","info":{"name":"Services Block","icon":"robot"},"attributes":{"heading":{"type":"string"},"content":{"type":"richtext"},"image":{"model":"file","via":"related","allowedTypes":["images"],"plugin":"upload","required":false}}}

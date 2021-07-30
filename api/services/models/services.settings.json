@@ -1,0 +1,1 @@
+{"kind":"singleType","collectionName":"services","info":{"name":"Services"},"options":{"increments":true,"timestamps":true,"draftAndPublish":true},"attributes":{"contentSections":{"type":"dynamiczone","components":["sections.services-landing","sections.services-block","sections.contact-teaser"]}}}

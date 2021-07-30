@@ -1,0 +1,1 @@
+{"collectionName":"components_elements_contextual-link","info":{"name":"Contextual Link","icon":"heading"},"attributes":{"icon":{"type":"component","repeatable":false,"component":"elements.icon"},"text":{"type":"string"},"label":{"type":"string"},"url":{"type":"string"}}}

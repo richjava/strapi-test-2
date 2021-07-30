@@ -1,0 +1,1 @@
+{"kind":"singleType","collectionName":"home","info":{"name":"Home"},"options":{"increments":true,"timestamps":true,"draftAndPublish":true},"attributes":{"contentSections":{"type":"dynamiczone","components":["sections.main-landing","sections.features-list","sections.home-about-teaser"]}}}

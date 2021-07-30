@@ -1,0 +1,1 @@
+{"kind":"collectionType","collectionName":"primary-menu-items","info":{"name":"Primary Menu Item","description":"Menu item for the primary menu"},"options":{"increments":true,"timestamps":true,"draftAndPublish":true},"attributes":{"label":{"type":"string","required":true},"url":{"type":"string","unique":true,"required":true}}}

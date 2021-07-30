@@ -1,0 +1,1 @@
+{"kind":"singleType","collectionName":"about","info":{"name":"About"},"options":{"increments":true,"timestamps":true,"draftAndPublish":true},"attributes":{"contentSections":{"type":"dynamiczone","components":["sections.about-landing"]}}}

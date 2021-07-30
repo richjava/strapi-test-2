@@ -1,0 +1,1 @@
+{"collectionName":"components_elements_preheading","info":{"name":"Preheading","icon":"heading"},"attributes":{"text":{"type":"string"},"type":{"type":"enumeration","enum":["line","dot","plain"]}}}

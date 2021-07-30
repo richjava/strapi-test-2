@@ -1,0 +1,1 @@
+{"collectionName":"components_sections_services-landing","info":{"name":"Services Landing","icon":"heading"},"attributes":{"preheading":{"type":"component","repeatable":false,"component":"elements.preheading"},"heading":{"type":"string"},"blurb":{"type":"text"},"image":{"model":"file","via":"related","allowedTypes":["images"],"plugin":"upload","required":false}}}
